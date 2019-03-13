@@ -1,11 +1,3 @@
-sarah test to delete:
-
-* They <b>show their expertise</b>
-
-* They <b><span data-revealword="admit">acknowledge</span> counterarguments</b>
-
-
-
 ## Space After Bullet Point
     This rule will notify you if you did not add a space after a bullet point (*) in a markdown or other file.
 
