@@ -1,4 +1,4 @@
-## Space After Bullet Point
+## Space After Bullet Point Rule
     This rule will notify you if you did not add a space after a bullet point (*) in a markdown or other file.
 
     passes:
